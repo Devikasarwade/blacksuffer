@@ -35,13 +35,7 @@ To install the DarkPatternLLM, follow these steps:
 
 After installation, the DarkPatternLLM icon will appear in your browser toolbar. Simply visit any website, and the extension will automatically analyze the page for dark patterns. If a dark pattern is detected, you will receive a notification, and the relevant elements will be highlighted on the page.
 
-## Contributing
 
-We welcome contributions! If you want to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and submit a pull request.
 
 
 
